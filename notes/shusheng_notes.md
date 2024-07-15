@@ -122,6 +122,6 @@ git config user.email ""
 github 创建一个仓库 [https://github.com/WMing404/shusheng-demo](https://github.com/WMing404/shusheng-demo)
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/25427778/1721019897733-0fbc17d9-2ed7-402d-8b2f-2ecdf52de00c.png#averageHue=%23ccab80&clientId=u44ef13df-0f5b-4&from=paste&height=745&id=u44fa5275&originHeight=1117&originWidth=2193&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=214125&status=done&style=none&taskId=ub0002faf-5cfa-41f5-8278-217062d18e9&title=&width=1462)
 
-上传笔记，笔记链接为：https://github.com/WMing404/shusheng-demo/blob/main/notes/%E4%B9%A6%E7%94%9F%E8%AE%AD%E7%BB%83%E8%90%A5%E7%AC%94%E8%AE%B0.md
+上传笔记，笔记链接为：(https://github.com/WMing404/shusheng-demo/blob/main/notes/shusheng_notes.md)
 
 
